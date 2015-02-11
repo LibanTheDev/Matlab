@@ -1,8 +1,6 @@
 # Matlab
-Some MATLAB scripts from my courses.
+Some MATLAB scripts for fun and for my courses (Differential Equations, Multivariable Calculus, Mathematical Finance, etc)
 
-Differential Equations
 
-Multivariable Calculus
 
 
